@@ -1,13 +1,20 @@
 import unittest
-from scrapy.http import HtmlResponse
+from pathlib import Path
+
+
+from scrapy.http import HtmlResponse, Request
+from books.items import BooksItem
 from books.spiders.book import BookSpider
+
+def _get_sample_html_content():
+    html_file_path = Path(__file__).parent / "sample.html"
+    return html_file_path.read_text("utf-8")
 
 class BookSpiderTest(unittest.TestCase):
 
     def setUp(self):
         self.spider = BookSpider()
-        self.example_html = """file:///C:/Users/matxz/Downloads/materials-web-scraping-with-scrapy-and-mongodb-%20(1)/books/tests/sample.html
-        """
+        self.example_html = _get_sample_html_content()
         self.response = HtmlResponse(
             url="https://books.toscrape.com",
             body=self.example_html,
@@ -16,20 +23,53 @@ class BookSpiderTest(unittest.TestCase):
 
     def test_parse_scrapes_all_items(self):
         """Test if the spider scrapes books and pagination links."""
-        book_items = []
-        pagination_requests = []
+        results_generator = self.spider.parse(self.response)
 
-        self.assertEqual(len(book_items), 2)
-        self.assertEqual(len(pagination_requests), 1)
-        pass
+        # Book 1
+        book_1 = next(results_generator)
+        self.assertEqual(
+            book_1["url"], "catalogue/a-light-in-the-attic_1000/index.html"
+        )
+        self.assertEqual(book_1["title"], "A Light in the Attic")
+        self.assertEqual(book_1["price"], "£51.77")
+        book_2 = next(results_generator)
+        self.assertEqual(
+            book_2["url"], "catalogue/tipping-the-velvet_999/index.html"
+        )
+        self.assertEqual(book_2["title"], "Tipping the Velvet")
+        self.assertEqual(book_2["price"], "£53.74")
 
     def test_parse_scrapes_correct_book_information(self):
         """Test if the spider scrapes the correct information for each book."""
+        results = list(self.spider.parse(self.response))
+        book_items = [item for item in results if isinstance(item, BooksItem)]
+        self.assertEqual(len(book_items), 2)
+
+        book = book_items[0]
+        titulo = book["title"]
+        precio = book["price"]
+        self.assertEqual(titulo, "A Light in the Attic")
+        self.assertEqual(precio, "£51.77")
+        
+        book = book_items[1]
+        titulo = book["title"]
+        precio = book["price"]
+        self.assertEqual(titulo, "Tipping the Velvet")
+        self.assertEqual(precio, "£53.74")
+        
+
+        
         pass
 
     def test_parse_creates_pagination_request(self):
         """Test if the spider creates a pagination request correctly."""
-        pass
+        results = list(self.spider.parse(self.response))
+        next_page_request = results[-1]
+        self.assertIsInstance(next_page_request, Request)
+        self.assertEqual(
+            next_page_request.url,
+            "https://books.toscrape.com/catalogue/page-2.html",
+        )
 
 if __name__ == "__main__":
     unittest.main()
