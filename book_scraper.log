@@ -8084,3 +8084,1891 @@
 {'price': '£26.08',
  'title': '1,000 Places to See Before You Die',
  'url': '1000-places-to-see-before-you-die_1/index.html'}
+2025-08-05 19:08:36 [py.warnings] WARNING: C:\Users\matxz\books\venv\Lib\site-packages\scrapy\core\spidermw.py:433: ScrapyDeprecationWarning: books.spiders.book.MovieSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-05 19:17:15 [py.warnings] WARNING: C:\Users\matxz\books\venv\Lib\site-packages\scrapy\core\spidermw.py:433: ScrapyDeprecationWarning: books.spiders.book.MovieSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+{'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+{'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+{'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+{'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+{'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+{'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+{'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+{'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+{'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+{'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+{'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+{'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+{'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+{'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+{'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+{'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+{'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+{'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+{'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+2025-08-05 19:17:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+{'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+2025-08-05 19:21:36 [py.warnings] WARNING: C:\Users\matxz\books\venv\Lib\site-packages\scrapy\core\spidermw.py:433: ScrapyDeprecationWarning: books.spiders.book.MovieSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+{'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+{'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+{'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+{'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+{'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+{'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+{'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+{'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+{'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+{'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+{'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+{'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+{'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+{'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+{'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+{'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+{'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+{'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+{'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+2025-08-05 19:21:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+{'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+2025-08-06 20:44:57 [py.warnings] WARNING: C:\Users\matxz\books\venv\Lib\site-packages\scrapy\core\spidermw.py:433: ScrapyDeprecationWarning: books.spiders.book.MovieSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+{'title': 'Sorry, Baby',
+ 'url': 'https://yts.mx/movies/sorry-baby-2025',
+ 'year': '2025'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+{'title': "Abraham's Boys",
+ 'url': 'https://yts.mx/movies/abrahams-boys-2025',
+ 'year': '2025'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+{'title': ' Doar cu buletinul la Paris',
+ 'url': 'https://yts.mx/movies/doar-cu-buletinul-la-paris-2015',
+ 'year': '2015'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+{'title': 'Hercules Returns',
+ 'url': 'https://yts.mx/movies/hercules-returns-1993',
+ 'year': '1993'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+{'title': 'The United States of America',
+ 'url': 'https://yts.mx/movies/the-united-states-of-america-2022',
+ 'year': '2022'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+{'title': 'Jurassic World: Rebirth',
+ 'url': 'https://yts.mx/movies/jurassic-world-rebirth-2025',
+ 'year': '2025'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+{'title': 'Attack of the Crab Monsters',
+ 'url': 'https://yts.mx/movies/attack-of-the-crab-monsters-1957',
+ 'year': '1957'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+{'title': 'Borderline',
+ 'url': 'https://yts.mx/movies/borderline-2025',
+ 'year': '2025'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+{'title': 'Kiss the Girls',
+ 'url': 'https://yts.mx/movies/kiss-the-girls-1997',
+ 'year': '1997'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+{'title': 'A Sacrifice',
+ 'url': 'https://yts.mx/movies/a-sacrifice-2024',
+ 'year': '2024'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+{'title': ' River', 'url': 'https://yts.mx/movies/river-2022', 'year': '2022'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+{'title': 'The Blackwell Ghost 6',
+ 'url': 'https://yts.mx/movies/the-blackwell-ghost-6-2022',
+ 'year': '2022'}
+2025-08-06 20:45:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+{'title': 'How to Train Your Dragon',
+ 'url': 'https://yts.mx/movies/how-to-train-your-dragon-2025',
+ 'year': '2025'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+{'title': 'The Accountant 2',
+ 'url': 'https://yts.mx/movies/the-accountant-2-2025',
+ 'year': '2025'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+{'title': 'My Robot Sophia',
+ 'url': 'https://yts.mx/movies/my-robot-sophia-2022',
+ 'year': '2022'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+{'title': 'Breath of Life',
+ 'url': 'https://yts.mx/movies/breath-of-life-2014',
+ 'year': '2014'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+{'title': ' A Spoiling Rain',
+ 'url': 'https://yts.mx/movies/a-spoiling-rain-2023',
+ 'year': '2023'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+{'title': ' A Gilded Game',
+ 'url': 'https://yts.mx/movies/a-gilded-game-2025',
+ 'year': '2025'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+{'title': 'All the Money in the World',
+ 'url': 'https://yts.mx/movies/all-the-money-in-the-world-2017',
+ 'year': '2017'}
+2025-08-06 20:45:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+{'title': "Santa Isn't Real",
+ 'url': 'https://yts.mx/movies/santa-isnt-real-2023',
+ 'year': '2023'}
+2025-08-06 20:46:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Road Trip',
+ 'url': 'https://yts.mx/movies/road-trip-2000',
+ 'year': '2000'}
+{'title': 'Road Trip',
+ 'url': 'https://yts.mx/movies/road-trip-2000',
+ 'year': '2000'}
+2025-08-06 20:46:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' 48 Hours a Day',
+ 'url': 'https://yts.mx/movies/48-hours-a-day-2008',
+ 'year': '2008'}
+{'title': ' 48 Hours a Day',
+ 'url': 'https://yts.mx/movies/48-hours-a-day-2008',
+ 'year': '2008'}
+2025-08-06 20:46:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Claymation Christmas Celebration',
+ 'url': 'https://yts.mx/movies/claymation-christmas-celebration-1987',
+ 'year': '1987'}
+{'title': 'Claymation Christmas Celebration',
+ 'url': 'https://yts.mx/movies/claymation-christmas-celebration-1987',
+ 'year': '1987'}
+2025-08-06 20:46:39 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'After the Wildfires',
+ 'url': 'https://yts.mx/movies/after-the-wildfires-2020',
+ 'year': '2020'}
+{'title': 'After the Wildfires',
+ 'url': 'https://yts.mx/movies/after-the-wildfires-2020',
+ 'year': '2020'}
+2025-08-06 20:46:39 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Christmas Town',
+ 'url': 'https://yts.mx/movies/christmas-town-2008',
+ 'year': '2008'}
+{'title': 'Christmas Town',
+ 'url': 'https://yts.mx/movies/christmas-town-2008',
+ 'year': '2008'}
+2025-08-06 20:46:39 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Bottoms',
+ 'url': 'https://yts.mx/movies/bottoms-2023',
+ 'year': '2023'}
+{'title': 'Bottoms',
+ 'url': 'https://yts.mx/movies/bottoms-2023',
+ 'year': '2023'}
+2025-08-06 20:46:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Gang Busters',
+ 'url': 'https://yts.mx/movies/gang-busters-1942',
+ 'year': '1942'}
+{'title': 'Gang Busters',
+ 'url': 'https://yts.mx/movies/gang-busters-1942',
+ 'year': '1942'}
+2025-08-06 20:46:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Dirty Harry',
+ 'url': 'https://yts.mx/movies/dirty-harry-1971',
+ 'year': '1971'}
+{'title': 'Dirty Harry',
+ 'url': 'https://yts.mx/movies/dirty-harry-1971',
+ 'year': '1971'}
+2025-08-06 20:46:43 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Pangolin: Kulu's Journey",
+ 'url': 'https://yts.mx/movies/pangolin-kulus-journey-2025',
+ 'year': '2025'}
+{'title': "Pangolin: Kulu's Journey",
+ 'url': 'https://yts.mx/movies/pangolin-kulus-journey-2025',
+ 'year': '2025'}
+2025-08-06 20:46:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' On the Other Side of the Tracks',
+ 'url': 'https://yts.mx/movies/on-the-other-side-of-the-tracks-2012',
+ 'year': '2012'}
+{'title': ' On the Other Side of the Tracks',
+ 'url': 'https://yts.mx/movies/on-the-other-side-of-the-tracks-2012',
+ 'year': '2012'}
+2025-08-06 20:46:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Karakasa',
+ 'url': 'https://yts.mx/movies/karakasa-2023',
+ 'year': '2023'}
+{'title': ' Karakasa',
+ 'url': 'https://yts.mx/movies/karakasa-2023',
+ 'year': '2023'}
+2025-08-06 20:46:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Guy Manley: Super Spy',
+ 'url': 'https://yts.mx/movies/guy-manley-super-spy-2024',
+ 'year': '2024'}
+{'title': 'Guy Manley: Super Spy',
+ 'url': 'https://yts.mx/movies/guy-manley-super-spy-2024',
+ 'year': '2024'}
+2025-08-06 20:46:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Faust the Necromancer',
+ 'url': 'https://yts.mx/movies/faust-the-necromancer-2020',
+ 'year': '2020'}
+{'title': 'Faust the Necromancer',
+ 'url': 'https://yts.mx/movies/faust-the-necromancer-2020',
+ 'year': '2020'}
+2025-08-06 20:46:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Huisvrouwen bestaan niet',
+ 'url': 'https://yts.mx/movies/huisvrouwen-bestaan-niet-2017',
+ 'year': '2017'}
+{'title': ' Huisvrouwen bestaan niet',
+ 'url': 'https://yts.mx/movies/huisvrouwen-bestaan-niet-2017',
+ 'year': '2017'}
+2025-08-06 20:47:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Unit 234',
+ 'url': 'https://yts.mx/movies/unit-234-2024',
+ 'year': '2024'}
+{'title': 'Unit 234',
+ 'url': 'https://yts.mx/movies/unit-234-2024',
+ 'year': '2024'}
+2025-08-06 20:47:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' How to Make a Killing',
+ 'url': 'https://yts.mx/movies/how-to-make-a-killing-2024',
+ 'year': '2024'}
+{'title': ' How to Make a Killing',
+ 'url': 'https://yts.mx/movies/how-to-make-a-killing-2024',
+ 'year': '2024'}
+2025-08-06 20:47:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Tin Soldier',
+ 'url': 'https://yts.mx/movies/tin-soldier-2025',
+ 'year': '2025'}
+{'title': 'Tin Soldier',
+ 'url': 'https://yts.mx/movies/tin-soldier-2025',
+ 'year': '2025'}
+2025-08-06 20:47:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Vadakkan',
+ 'url': 'https://yts.mx/movies/vadakkan-2025',
+ 'year': '2025'}
+{'title': ' Vadakkan',
+ 'url': 'https://yts.mx/movies/vadakkan-2025',
+ 'year': '2025'}
+2025-08-06 20:47:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Desert Fiends',
+ 'url': 'https://yts.mx/movies/desert-fiends-2024',
+ 'year': '2024'}
+{'title': 'Desert Fiends',
+ 'url': 'https://yts.mx/movies/desert-fiends-2024',
+ 'year': '2024'}
+2025-08-06 20:47:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Most Precious of Cargoes',
+ 'url': 'https://yts.mx/movies/the-most-precious-of-cargoes-2024',
+ 'year': '2024'}
+{'title': ' The Most Precious of Cargoes',
+ 'url': 'https://yts.mx/movies/the-most-precious-of-cargoes-2024',
+ 'year': '2024'}
+2025-08-06 20:47:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Silver Spitfire: The Longest Flight',
+ 'url': 'https://yts.mx/movies/silver-spitfire-the-longest-flight-2022',
+ 'year': '2022'}
+{'title': 'Silver Spitfire: The Longest Flight',
+ 'url': 'https://yts.mx/movies/silver-spitfire-the-longest-flight-2022',
+ 'year': '2022'}
+2025-08-06 20:47:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Hats Off to Love',
+ 'url': 'https://yts.mx/movies/hats-off-to-love-2025',
+ 'year': '2025'}
+{'title': 'Hats Off to Love',
+ 'url': 'https://yts.mx/movies/hats-off-to-love-2025',
+ 'year': '2025'}
+2025-08-06 20:47:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Seeds', 'url': 'https://yts.mx/movies/seeds-2024', 'year': '2024'}
+{'title': 'Seeds', 'url': 'https://yts.mx/movies/seeds-2024', 'year': '2024'}
+2025-08-06 20:47:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Virgin High',
+ 'url': 'https://yts.mx/movies/virgin-high-1991',
+ 'year': '1991'}
+{'title': 'Virgin High',
+ 'url': 'https://yts.mx/movies/virgin-high-1991',
+ 'year': '1991'}
+2025-08-06 20:47:18 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Christmas Carole',
+ 'url': 'https://yts.mx/movies/christmas-carole-2022',
+ 'year': '2022'}
+{'title': 'Christmas Carole',
+ 'url': 'https://yts.mx/movies/christmas-carole-2022',
+ 'year': '2022'}
+2025-08-06 20:47:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' La Cocina',
+ 'url': 'https://yts.mx/movies/la-cocina-2024',
+ 'year': '2024'}
+{'title': ' La Cocina',
+ 'url': 'https://yts.mx/movies/la-cocina-2024',
+ 'year': '2024'}
+2025-08-06 20:47:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Swamp City',
+ 'url': 'https://yts.mx/movies/swamp-city-2021',
+ 'year': '2021'}
+{'title': 'Swamp City',
+ 'url': 'https://yts.mx/movies/swamp-city-2021',
+ 'year': '2021'}
+2025-08-06 20:47:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Overlord: The Sacred Kingdom',
+ 'url': 'https://yts.mx/movies/overlord-the-sacred-kingdom-2024',
+ 'year': '2024'}
+{'title': ' Overlord: The Sacred Kingdom',
+ 'url': 'https://yts.mx/movies/overlord-the-sacred-kingdom-2024',
+ 'year': '2024'}
+2025-08-06 20:47:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Killer Constable',
+ 'url': 'https://yts.mx/movies/killer-constable-1980',
+ 'year': '1980'}
+{'title': ' Killer Constable',
+ 'url': 'https://yts.mx/movies/killer-constable-1980',
+ 'year': '1980'}
+2025-08-06 20:47:30 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'On Falling',
+ 'url': 'https://yts.mx/movies/on-falling-2024',
+ 'year': '2024'}
+{'title': 'On Falling',
+ 'url': 'https://yts.mx/movies/on-falling-2024',
+ 'year': '2024'}
+2025-08-06 20:47:30 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Paradise Is Burning',
+ 'url': 'https://yts.mx/movies/paradise-is-burning-2023',
+ 'year': '2023'}
+{'title': ' Paradise Is Burning',
+ 'url': 'https://yts.mx/movies/paradise-is-burning-2023',
+ 'year': '2023'}
+2025-08-06 20:47:30 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Good German',
+ 'url': 'https://yts.mx/movies/the-good-german-2006',
+ 'year': '2006'}
+{'title': 'The Good German',
+ 'url': 'https://yts.mx/movies/the-good-german-2006',
+ 'year': '2006'}
+2025-08-06 20:47:30 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'What Still Remains',
+ 'url': 'https://yts.mx/movies/what-still-remains-2018',
+ 'year': '2018'}
+{'title': 'What Still Remains',
+ 'url': 'https://yts.mx/movies/what-still-remains-2018',
+ 'year': '2018'}
+2025-08-06 20:47:33 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Svemu dodje kraj',
+ 'url': 'https://yts.mx/movies/svemu-dodje-kraj-2024',
+ 'year': '2024'}
+{'title': ' Svemu dodje kraj',
+ 'url': 'https://yts.mx/movies/svemu-dodje-kraj-2024',
+ 'year': '2024'}
+2025-08-06 20:47:37 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Garfield in Disguise',
+ 'url': 'https://yts.mx/movies/garfield-in-disguise-1985',
+ 'year': '1985'}
+{'title': 'Garfield in Disguise',
+ 'url': 'https://yts.mx/movies/garfield-in-disguise-1985',
+ 'year': '1985'}
+2025-08-06 20:47:40 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Art Matters',
+ 'url': 'https://yts.mx/movies/art-matters-2024',
+ 'year': '2024'}
+{'title': 'Art Matters',
+ 'url': 'https://yts.mx/movies/art-matters-2024',
+ 'year': '2024'}
+2025-08-06 20:47:43 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Just a Bit Outside: The Story of the 1982 Milwaukee Brewers',
+ 'url': 'https://yts.mx/movies/just-a-bit-outside-the-story-of-the-1982-milwaukee-brewers-2024',
+ 'year': '2024'}
+{'title': 'Just a Bit Outside: The Story of the 1982 Milwaukee Brewers',
+ 'url': 'https://yts.mx/movies/just-a-bit-outside-the-story-of-the-1982-milwaukee-brewers-2024',
+ 'year': '2024'}
+2025-08-06 20:47:47 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Disenchanted',
+ 'url': 'https://yts.mx/movies/the-disenchanted-1990',
+ 'year': '1990'}
+{'title': ' The Disenchanted',
+ 'url': 'https://yts.mx/movies/the-disenchanted-1990',
+ 'year': '1990'}
+2025-08-06 20:47:47 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Cat on a Hot Tin Roof',
+ 'url': 'https://yts.mx/movies/cat-on-a-hot-tin-roof-2018',
+ 'year': '2018'}
+{'title': 'Cat on a Hot Tin Roof',
+ 'url': 'https://yts.mx/movies/cat-on-a-hot-tin-roof-2018',
+ 'year': '2018'}
+2025-08-06 20:47:47 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Character',
+ 'url': 'https://yts.mx/movies/character-1997',
+ 'year': '1997'}
+{'title': ' Character',
+ 'url': 'https://yts.mx/movies/character-1997',
+ 'year': '1997'}
+2025-08-06 20:47:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Return', 'url': 'https://yts.mx/movies/return-2011', 'year': '2011'}
+{'title': 'Return', 'url': 'https://yts.mx/movies/return-2011', 'year': '2011'}
+2025-08-06 20:47:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Laila', 'url': 'https://yts.mx/movies/laila-2025', 'year': '2025'}
+{'title': ' Laila', 'url': 'https://yts.mx/movies/laila-2025', 'year': '2025'}
+2025-08-06 20:47:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Dossier K.',
+ 'url': 'https://yts.mx/movies/dossier-k-2009',
+ 'year': '2009'}
+{'title': ' Dossier K.',
+ 'url': 'https://yts.mx/movies/dossier-k-2009',
+ 'year': '2009'}
+2025-08-06 20:47:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Robot Sound',
+ 'url': 'https://yts.mx/movies/robot-sound-2016',
+ 'year': '2016'}
+{'title': ' Robot Sound',
+ 'url': 'https://yts.mx/movies/robot-sound-2016',
+ 'year': '2016'}
+2025-08-06 20:47:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Enemies In-Law',
+ 'url': 'https://yts.mx/movies/enemies-in-law-2015',
+ 'year': '2015'}
+{'title': ' Enemies In-Law',
+ 'url': 'https://yts.mx/movies/enemies-in-law-2015',
+ 'year': '2015'}
+2025-08-06 20:47:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Impact', 'url': 'https://yts.mx/movies/impact-1949', 'year': '1949'}
+{'title': 'Impact', 'url': 'https://yts.mx/movies/impact-1949', 'year': '1949'}
+2025-08-06 20:48:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Cliffy', 'url': 'https://yts.mx/movies/cliffy-2013', 'year': '2013'}
+{'title': 'Cliffy', 'url': 'https://yts.mx/movies/cliffy-2013', 'year': '2013'}
+2025-08-06 20:48:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Oscar Wilde About America',
+ 'url': 'https://yts.mx/movies/oscar-wilde-about-america-2024',
+ 'year': '2024'}
+{'title': 'Oscar Wilde About America',
+ 'url': 'https://yts.mx/movies/oscar-wilde-about-america-2024',
+ 'year': '2024'}
+2025-08-06 20:48:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Tamang Panahon',
+ 'url': 'https://yts.mx/movies/tamang-panahon-2025',
+ 'year': '2025'}
+{'title': ' Tamang Panahon',
+ 'url': 'https://yts.mx/movies/tamang-panahon-2025',
+ 'year': '2025'}
+2025-08-06 20:48:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Triple Bogey on a Par Five Hole',
+ 'url': 'https://yts.mx/movies/triple-bogey-on-a-par-five-hole-1991',
+ 'year': '1991'}
+{'title': 'Triple Bogey on a Par Five Hole',
+ 'url': 'https://yts.mx/movies/triple-bogey-on-a-par-five-hole-1991',
+ 'year': '1991'}
+2025-08-06 20:48:05 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Trail of Justice',
+ 'url': 'https://yts.mx/movies/trail-of-justice-2020',
+ 'year': '2020'}
+{'title': 'Trail of Justice',
+ 'url': 'https://yts.mx/movies/trail-of-justice-2020',
+ 'year': '2020'}
+2025-08-06 20:48:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Between Borders',
+ 'url': 'https://yts.mx/movies/between-borders-2024',
+ 'year': '2024'}
+{'title': 'Between Borders',
+ 'url': 'https://yts.mx/movies/between-borders-2024',
+ 'year': '2024'}
+2025-08-06 20:48:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Jananam: 1947 Pranayam Thudarunnu',
+ 'url': 'https://yts.mx/movies/jananam-1947-pranayam-thudarunnu-2024',
+ 'year': '2024'}
+{'title': ' Jananam: 1947 Pranayam Thudarunnu',
+ 'url': 'https://yts.mx/movies/jananam-1947-pranayam-thudarunnu-2024',
+ 'year': '2024'}
+2025-08-06 20:48:13 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'More, More, More! How Do You Lycett? How Do You Lycett?',
+ 'url': 'https://yts.mx/movies/more-more-more-how-do-you-lycett-how-do-you-lycett-2022',
+ 'year': '2022'}
+{'title': 'More, More, More! How Do You Lycett? How Do You Lycett?',
+ 'url': 'https://yts.mx/movies/more-more-more-how-do-you-lycett-how-do-you-lycett-2022',
+ 'year': '2022'}
+2025-08-06 20:48:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Murder City',
+ 'url': 'https://yts.mx/movies/murder-city-2023',
+ 'year': '2023'}
+{'title': 'Murder City',
+ 'url': 'https://yts.mx/movies/murder-city-2023',
+ 'year': '2023'}
+2025-08-06 20:48:18 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Buddymoon',
+ 'url': 'https://yts.mx/movies/buddymoon-2016',
+ 'year': '2016'}
+{'title': 'Buddymoon',
+ 'url': 'https://yts.mx/movies/buddymoon-2016',
+ 'year': '2016'}
+2025-08-06 20:48:25 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Modi: Three Days on the Wing of Madness',
+ 'url': 'https://yts.mx/movies/modi-three-days-on-the-wing-of-madness-2024',
+ 'year': '2024'}
+{'title': 'Modi: Three Days on the Wing of Madness',
+ 'url': 'https://yts.mx/movies/modi-three-days-on-the-wing-of-madness-2024',
+ 'year': '2024'}
+2025-08-06 20:48:28 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Leonor Will Never Die',
+ 'url': 'https://yts.mx/movies/leonor-will-never-die-2022',
+ 'year': '2022'}
+{'title': ' Leonor Will Never Die',
+ 'url': 'https://yts.mx/movies/leonor-will-never-die-2022',
+ 'year': '2022'}
+2025-08-06 20:48:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Love Reset',
+ 'url': 'https://yts.mx/movies/love-reset-2023',
+ 'year': '2023'}
+{'title': ' Love Reset',
+ 'url': 'https://yts.mx/movies/love-reset-2023',
+ 'year': '2023'}
+2025-08-06 20:48:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Being Black Enough',
+ 'url': 'https://yts.mx/movies/being-black-enough-2017',
+ 'year': '2017'}
+{'title': 'Being Black Enough',
+ 'url': 'https://yts.mx/movies/being-black-enough-2017',
+ 'year': '2017'}
+2025-08-06 20:48:37 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Speak No Evil',
+ 'url': 'https://yts.mx/movies/speak-no-evil-2013',
+ 'year': '2013'}
+{'title': 'Speak No Evil',
+ 'url': 'https://yts.mx/movies/speak-no-evil-2013',
+ 'year': '2013'}
+2025-08-06 20:48:46 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'My Husband, the Cyborg',
+ 'url': 'https://yts.mx/movies/my-husband-the-cyborg-2025',
+ 'year': '2025'}
+{'title': 'My Husband, the Cyborg',
+ 'url': 'https://yts.mx/movies/my-husband-the-cyborg-2025',
+ 'year': '2025'}
+2025-08-06 20:48:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Eva', 'url': 'https://yts.mx/movies/eva-2018', 'year': '2018'}
+{'title': ' Eva', 'url': 'https://yts.mx/movies/eva-2018', 'year': '2018'}
+2025-08-06 20:48:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Hijacked: Flight 285',
+ 'url': 'https://yts.mx/movies/hijacked-flight-285-1996',
+ 'year': '1996'}
+{'title': 'Hijacked: Flight 285',
+ 'url': 'https://yts.mx/movies/hijacked-flight-285-1996',
+ 'year': '1996'}
+2025-08-06 20:48:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Witches of Breastwick 2',
+ 'url': 'https://yts.mx/movies/the-witches-of-breastwick-2-2005',
+ 'year': '2005'}
+{'title': 'The Witches of Breastwick 2',
+ 'url': 'https://yts.mx/movies/the-witches-of-breastwick-2-2005',
+ 'year': '2005'}
+2025-08-06 20:48:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Bolehkah Sekali Saja Kumenangis',
+ 'url': 'https://yts.mx/movies/bolehkah-sekali-saja-kumenangis-2024',
+ 'year': '2024'}
+{'title': ' Bolehkah Sekali Saja Kumenangis',
+ 'url': 'https://yts.mx/movies/bolehkah-sekali-saja-kumenangis-2024',
+ 'year': '2024'}
+2025-08-06 20:49:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Dance Party, USA',
+ 'url': 'https://yts.mx/movies/dance-party-usa-2006',
+ 'year': '2006'}
+{'title': 'Dance Party, USA',
+ 'url': 'https://yts.mx/movies/dance-party-usa-2006',
+ 'year': '2006'}
+2025-08-06 20:54:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sand Castles',
+ 'url': 'https://yts.mx/movies/sand-castles-2014',
+ 'year': '2014'}
+{'title': 'Sand Castles',
+ 'url': 'https://yts.mx/movies/sand-castles-2014',
+ 'year': '2014'}
+2025-08-06 20:54:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Crescendo! The Power of Music',
+ 'url': 'https://yts.mx/movies/crescendo-the-power-of-music-2014',
+ 'year': '2014'}
+{'title': 'Crescendo! The Power of Music',
+ 'url': 'https://yts.mx/movies/crescendo-the-power-of-music-2014',
+ 'year': '2014'}
+2025-08-06 20:54:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'SNL50: The Anniversary Special',
+ 'url': 'https://yts.mx/movies/snl50-the-anniversary-special-2025',
+ 'year': '2025'}
+{'title': 'SNL50: The Anniversary Special',
+ 'url': 'https://yts.mx/movies/snl50-the-anniversary-special-2025',
+ 'year': '2025'}
+2025-08-06 20:54:29 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Dil Chahta Hai',
+ 'url': 'https://yts.mx/movies/dil-chahta-hai-2001',
+ 'year': '2001'}
+{'title': ' Dil Chahta Hai',
+ 'url': 'https://yts.mx/movies/dil-chahta-hai-2001',
+ 'year': '2001'}
+2025-08-06 20:54:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' X Files',
+ 'url': 'https://yts.mx/movies/x-files-2024',
+ 'year': '2024'}
+{'title': ' X Files',
+ 'url': 'https://yts.mx/movies/x-files-2024',
+ 'year': '2024'}
+2025-08-06 20:54:57 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Cherry Bomb',
+ 'url': 'https://yts.mx/movies/cherry-bomb-2024',
+ 'year': '2024'}
+{'title': 'Cherry Bomb',
+ 'url': 'https://yts.mx/movies/cherry-bomb-2024',
+ 'year': '2024'}
+2025-08-06 20:55:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sniper: The Last Stand',
+ 'url': 'https://yts.mx/movies/sniper-the-last-stand-2025',
+ 'year': '2025'}
+{'title': 'Sniper: The Last Stand',
+ 'url': 'https://yts.mx/movies/sniper-the-last-stand-2025',
+ 'year': '2025'}
+2025-08-06 20:55:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'A Unicorn for Christmas',
+ 'url': 'https://yts.mx/movies/a-unicorn-for-christmas-2021',
+ 'year': '2021'}
+{'title': 'A Unicorn for Christmas',
+ 'url': 'https://yts.mx/movies/a-unicorn-for-christmas-2021',
+ 'year': '2021'}
+2025-08-06 20:55:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Forever Home',
+ 'url': 'https://yts.mx/movies/forever-home-2023',
+ 'year': '2023'}
+{'title': 'Forever Home',
+ 'url': 'https://yts.mx/movies/forever-home-2023',
+ 'year': '2023'}
+2025-08-06 20:55:14 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Suna', 'url': 'https://yts.mx/movies/suna-2007', 'year': '2007'}
+{'title': ' Suna', 'url': 'https://yts.mx/movies/suna-2007', 'year': '2007'}
+2025-08-06 20:55:18 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Powder Pup',
+ 'url': 'https://yts.mx/movies/powder-pup-2024',
+ 'year': '2024'}
+{'title': 'Powder Pup',
+ 'url': 'https://yts.mx/movies/powder-pup-2024',
+ 'year': '2024'}
+2025-08-06 20:56:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '20 Funerals',
+ 'url': 'https://yts.mx/movies/20-funerals-2004',
+ 'year': '2004'}
+{'title': '20 Funerals',
+ 'url': 'https://yts.mx/movies/20-funerals-2004',
+ 'year': '2004'}
+2025-08-06 20:56:34 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '51', 'url': 'https://yts.mx/movies/51-2011', 'year': '2011'}
+{'title': '51', 'url': 'https://yts.mx/movies/51-2011', 'year': '2011'}
+2025-08-06 20:56:46 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Revenge of the Zombies',
+ 'url': 'https://yts.mx/movies/revenge-of-the-zombies-1943',
+ 'year': '1943'}
+{'title': 'Revenge of the Zombies',
+ 'url': 'https://yts.mx/movies/revenge-of-the-zombies-1943',
+ 'year': '1943'}
+2025-08-06 20:56:56 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '12 Wishes of Christmas',
+ 'url': 'https://yts.mx/movies/12-wishes-of-christmas-2011',
+ 'year': '2011'}
+{'title': '12 Wishes of Christmas',
+ 'url': 'https://yts.mx/movies/12-wishes-of-christmas-2011',
+ 'year': '2011'}
+2025-08-06 20:57:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Aire, Just Breathe',
+ 'url': 'https://yts.mx/movies/aire-just-breathe-2024',
+ 'year': '2024'}
+{'title': ' Aire, Just Breathe',
+ 'url': 'https://yts.mx/movies/aire-just-breathe-2024',
+ 'year': '2024'}
+2025-08-06 20:57:08 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Drug Stamps',
+ 'url': 'https://yts.mx/movies/drug-stamps-2023',
+ 'year': '2023'}
+{'title': ' Drug Stamps',
+ 'url': 'https://yts.mx/movies/drug-stamps-2023',
+ 'year': '2023'}
+2025-08-06 20:57:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'All You Need Is Blood',
+ 'url': 'https://yts.mx/movies/all-you-need-is-blood-2023',
+ 'year': '2023'}
+{'title': 'All You Need Is Blood',
+ 'url': 'https://yts.mx/movies/all-you-need-is-blood-2023',
+ 'year': '2023'}
+2025-08-06 20:57:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Murder in the Cathedral',
+ 'url': 'https://yts.mx/movies/murder-in-the-cathedral-1951',
+ 'year': '1951'}
+{'title': 'Murder in the Cathedral',
+ 'url': 'https://yts.mx/movies/murder-in-the-cathedral-1951',
+ 'year': '1951'}
+2025-08-06 20:57:29 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '#AMFAD: All My Friends Are Dead',
+ 'url': 'https://yts.mx/movies/amfad-all-my-friends-are-dead-2024',
+ 'year': '2024'}
+{'title': '#AMFAD: All My Friends Are Dead',
+ 'url': 'https://yts.mx/movies/amfad-all-my-friends-are-dead-2024',
+ 'year': '2024'}
+2025-08-06 20:57:35 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Unwrapping Christmas: Tina's Miracle",
+ 'url': 'https://yts.mx/movies/unwrapping-christmas-tinas-miracle-2024',
+ 'year': '2024'}
+{'title': "Unwrapping Christmas: Tina's Miracle",
+ 'url': 'https://yts.mx/movies/unwrapping-christmas-tinas-miracle-2024',
+ 'year': '2024'}
+2025-08-06 20:57:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Happy Happy Joy Joy: The Ren & Stimpy Story',
+ 'url': 'https://yts.mx/movies/happy-happy-joy-joy-the-ren-stimpy-story-2020',
+ 'year': '2020'}
+{'title': 'Happy Happy Joy Joy: The Ren & Stimpy Story',
+ 'url': 'https://yts.mx/movies/happy-happy-joy-joy-the-ren-stimpy-story-2020',
+ 'year': '2020'}
+2025-08-06 20:58:00 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Death Becomes Her',
+ 'url': 'https://yts.mx/movies/death-becomes-her-1992',
+ 'year': '1992'}
+{'title': 'Death Becomes Her',
+ 'url': 'https://yts.mx/movies/death-becomes-her-1992',
+ 'year': '1992'}
+2025-08-06 20:58:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Carved', 'url': 'https://yts.mx/movies/carved-2024', 'year': '2024'}
+{'title': 'Carved', 'url': 'https://yts.mx/movies/carved-2024', 'year': '2024'}
+2025-08-06 20:58:09 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Independent',
+ 'url': 'https://yts.mx/movies/the-independent-2022',
+ 'year': '2022'}
+{'title': 'The Independent',
+ 'url': 'https://yts.mx/movies/the-independent-2022',
+ 'year': '2022'}
+2025-08-06 20:58:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sarah Silverman: A Speck of Dust',
+ 'url': 'https://yts.mx/movies/sarah-silverman-a-speck-of-dust-2017',
+ 'year': '2017'}
+{'title': 'Sarah Silverman: A Speck of Dust',
+ 'url': 'https://yts.mx/movies/sarah-silverman-a-speck-of-dust-2017',
+ 'year': '2017'}
+2025-08-06 20:58:21 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Menendez Brothers',
+ 'url': 'https://yts.mx/movies/the-menendez-brothers-2024',
+ 'year': '2024'}
+{'title': 'The Menendez Brothers',
+ 'url': 'https://yts.mx/movies/the-menendez-brothers-2024',
+ 'year': '2024'}
+2025-08-06 20:58:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Stryker',
+ 'url': 'https://yts.mx/movies/stryker-1983',
+ 'year': '1983'}
+{'title': 'Stryker',
+ 'url': 'https://yts.mx/movies/stryker-1983',
+ 'year': '1983'}
+2025-08-06 20:58:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Lassie - Ein neues Abenteuer',
+ 'url': 'https://yts.mx/movies/lassie-ein-neues-abenteuer-2023',
+ 'year': '2023'}
+{'title': ' Lassie - Ein neues Abenteuer',
+ 'url': 'https://yts.mx/movies/lassie-ein-neues-abenteuer-2023',
+ 'year': '2023'}
+2025-08-06 20:58:34 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Camille',
+ 'url': 'https://yts.mx/movies/camille-1984',
+ 'year': '1984'}
+{'title': 'Camille',
+ 'url': 'https://yts.mx/movies/camille-1984',
+ 'year': '1984'}
+2025-08-06 20:58:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Peak Season',
+ 'url': 'https://yts.mx/movies/peak-season-2023',
+ 'year': '2023'}
+{'title': 'Peak Season',
+ 'url': 'https://yts.mx/movies/peak-season-2023',
+ 'year': '2023'}
+2025-08-06 20:58:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Produkty 24',
+ 'url': 'https://yts.mx/movies/produkty-24-2022',
+ 'year': '2022'}
+{'title': ' Produkty 24',
+ 'url': 'https://yts.mx/movies/produkty-24-2022',
+ 'year': '2022'}
+2025-08-06 20:58:47 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' 911-Pizza',
+ 'url': 'https://yts.mx/movies/911-pizza-2017',
+ 'year': '2017'}
+{'title': ' 911-Pizza',
+ 'url': 'https://yts.mx/movies/911-pizza-2017',
+ 'year': '2017'}
+2025-08-06 20:58:50 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'I Want Someone to Eat Cheese With',
+ 'url': 'https://yts.mx/movies/i-want-someone-to-eat-cheese-with-2006',
+ 'year': '2006'}
+{'title': 'I Want Someone to Eat Cheese With',
+ 'url': 'https://yts.mx/movies/i-want-someone-to-eat-cheese-with-2006',
+ 'year': '2006'}
+2025-08-06 20:58:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' 964 Pinocchio',
+ 'url': 'https://yts.mx/movies/964-pinocchio-1991',
+ 'year': '1991'}
+{'title': ' 964 Pinocchio',
+ 'url': 'https://yts.mx/movies/964-pinocchio-1991',
+ 'year': '1991'}
+2025-08-06 20:58:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Blind in Love',
+ 'url': 'https://yts.mx/movies/blind-in-love-2017',
+ 'year': '2017'}
+{'title': ' Blind in Love',
+ 'url': 'https://yts.mx/movies/blind-in-love-2017',
+ 'year': '2017'}
+2025-08-06 21:02:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' What Lucia Saw',
+ 'url': 'https://yts.mx/movies/what-lucia-saw-2022',
+ 'year': '2022'}
+{'title': ' What Lucia Saw',
+ 'url': 'https://yts.mx/movies/what-lucia-saw-2022',
+ 'year': '2022'}
+2025-08-06 21:02:28 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Rimini Rimini',
+ 'url': 'https://yts.mx/movies/rimini-rimini-1987',
+ 'year': '1987'}
+{'title': ' Rimini Rimini',
+ 'url': 'https://yts.mx/movies/rimini-rimini-1987',
+ 'year': '1987'}
+2025-08-06 21:02:33 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Laura', 'url': 'https://yts.mx/movies/laura-1979', 'year': '1979'}
+{'title': ' Laura', 'url': 'https://yts.mx/movies/laura-1979', 'year': '1979'}
+2025-08-06 21:02:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Art of Eight Limbs',
+ 'url': 'https://yts.mx/movies/art-of-eight-limbs-2024',
+ 'year': '2024'}
+{'title': 'Art of Eight Limbs',
+ 'url': 'https://yts.mx/movies/art-of-eight-limbs-2024',
+ 'year': '2024'}
+2025-08-06 21:02:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Matt Rife: Lucid - A Crowd Work Special',
+ 'url': 'https://yts.mx/movies/matt-rife-lucid-a-crowd-work-special-2024',
+ 'year': '2024'}
+{'title': 'Matt Rife: Lucid - A Crowd Work Special',
+ 'url': 'https://yts.mx/movies/matt-rife-lucid-a-crowd-work-special-2024',
+ 'year': '2024'}
+2025-08-06 21:02:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'I Can', 'url': 'https://yts.mx/movies/i-can-2023', 'year': '2023'}
+{'title': 'I Can', 'url': 'https://yts.mx/movies/i-can-2023', 'year': '2023'}
+2025-08-06 21:02:52 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Hijack 1971',
+ 'url': 'https://yts.mx/movies/hijack-1971-2024',
+ 'year': '2024'}
+{'title': ' Hijack 1971',
+ 'url': 'https://yts.mx/movies/hijack-1971-2024',
+ 'year': '2024'}
+2025-08-06 21:02:56 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Disco Boy',
+ 'url': 'https://yts.mx/movies/disco-boy-2023',
+ 'year': '2023'}
+{'title': ' Disco Boy',
+ 'url': 'https://yts.mx/movies/disco-boy-2023',
+ 'year': '2023'}
+2025-08-06 21:03:05 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '#ChadGetstheAxe',
+ 'url': 'https://yts.mx/movies/chadgetstheaxe-2022',
+ 'year': '2022'}
+{'title': '#ChadGetstheAxe',
+ 'url': 'https://yts.mx/movies/chadgetstheaxe-2022',
+ 'year': '2022'}
+2025-08-06 21:03:14 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Ralphie May: Imperfectly Yours',
+ 'url': 'https://yts.mx/movies/ralphie-may-imperfectly-yours-2013',
+ 'year': '2013'}
+{'title': 'Ralphie May: Imperfectly Yours',
+ 'url': 'https://yts.mx/movies/ralphie-may-imperfectly-yours-2013',
+ 'year': '2013'}
+2025-08-06 21:03:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Kiba: The Fangs of Fiction',
+ 'url': 'https://yts.mx/movies/kiba-the-fangs-of-fiction-2020',
+ 'year': '2020'}
+{'title': ' Kiba: The Fangs of Fiction',
+ 'url': 'https://yts.mx/movies/kiba-the-fangs-of-fiction-2020',
+ 'year': '2020'}
+2025-08-06 21:03:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Eye on Juliet',
+ 'url': 'https://yts.mx/movies/eye-on-juliet-2017',
+ 'year': '2017'}
+{'title': 'Eye on Juliet',
+ 'url': 'https://yts.mx/movies/eye-on-juliet-2017',
+ 'year': '2017'}
+2025-08-06 21:03:24 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Soul Mates',
+ 'url': 'https://yts.mx/movies/soul-mates-2023',
+ 'year': '2023'}
+{'title': 'Soul Mates',
+ 'url': 'https://yts.mx/movies/soul-mates-2023',
+ 'year': '2023'}
+2025-08-06 21:03:34 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Lohusa', 'url': 'https://yts.mx/movies/lohusa-2024', 'year': '2024'}
+{'title': ' Lohusa', 'url': 'https://yts.mx/movies/lohusa-2024', 'year': '2024'}
+2025-08-06 21:03:36 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'C.S.A.: The Confederate States of America',
+ 'url': 'https://yts.mx/movies/c-s-a-the-confederate-states-of-america-2004',
+ 'year': '2004'}
+{'title': 'C.S.A.: The Confederate States of America',
+ 'url': 'https://yts.mx/movies/c-s-a-the-confederate-states-of-america-2004',
+ 'year': '2004'}
+2025-08-06 21:03:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Site 13',
+ 'url': 'https://yts.mx/movies/site-13-2023',
+ 'year': '2023'}
+{'title': 'Site 13',
+ 'url': 'https://yts.mx/movies/site-13-2023',
+ 'year': '2023'}
+2025-08-06 21:03:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Devil on Campus: The Larry Ray Story',
+ 'url': 'https://yts.mx/movies/devil-on-campus-the-larry-ray-story-2024',
+ 'year': '2024'}
+{'title': 'Devil on Campus: The Larry Ray Story',
+ 'url': 'https://yts.mx/movies/devil-on-campus-the-larry-ray-story-2024',
+ 'year': '2024'}
+2025-08-06 21:03:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Girl in the Trunk',
+ 'url': 'https://yts.mx/movies/the-girl-in-the-trunk-2024',
+ 'year': '2024'}
+{'title': 'The Girl in the Trunk',
+ 'url': 'https://yts.mx/movies/the-girl-in-the-trunk-2024',
+ 'year': '2024'}
+2025-08-06 21:03:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Mark of the Whistler',
+ 'url': 'https://yts.mx/movies/the-mark-of-the-whistler-1944',
+ 'year': '1944'}
+{'title': 'The Mark of the Whistler',
+ 'url': 'https://yts.mx/movies/the-mark-of-the-whistler-1944',
+ 'year': '1944'}
+2025-08-06 21:04:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Pet Sematary',
+ 'url': 'https://yts.mx/movies/pet-sematary-1989',
+ 'year': '1989'}
+{'title': 'Pet Sematary',
+ 'url': 'https://yts.mx/movies/pet-sematary-1989',
+ 'year': '1989'}
+2025-08-06 21:04:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Wind Journeys',
+ 'url': 'https://yts.mx/movies/the-wind-journeys-2009',
+ 'year': '2009'}
+{'title': ' The Wind Journeys',
+ 'url': 'https://yts.mx/movies/the-wind-journeys-2009',
+ 'year': '2009'}
+2025-08-06 21:04:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Three Investigators and the Secret of Terror Castle',
+ 'url': 'https://yts.mx/movies/the-three-investigators-and-the-secret-of-terror-castle-2009',
+ 'year': '2009'}
+{'title': ' The Three Investigators and the Secret of Terror Castle',
+ 'url': 'https://yts.mx/movies/the-three-investigators-and-the-secret-of-terror-castle-2009',
+ 'year': '2009'}
+2025-08-06 21:04:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Mr. and Mrs. Stodola',
+ 'url': 'https://yts.mx/movies/mr-and-mrs-stodola-2023',
+ 'year': '2023'}
+{'title': ' Mr. and Mrs. Stodola',
+ 'url': 'https://yts.mx/movies/mr-and-mrs-stodola-2023',
+ 'year': '2023'}
+2025-08-06 21:04:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Dragnet Girl',
+ 'url': 'https://yts.mx/movies/dragnet-girl-1933',
+ 'year': '1933'}
+{'title': ' Dragnet Girl',
+ 'url': 'https://yts.mx/movies/dragnet-girl-1933',
+ 'year': '1933'}
+2025-08-06 21:04:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Dard Divorce',
+ 'url': 'https://yts.mx/movies/dard-divorce-2007',
+ 'year': '2007'}
+{'title': 'Dard Divorce',
+ 'url': 'https://yts.mx/movies/dard-divorce-2007',
+ 'year': '2007'}
+2025-08-06 21:04:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Kidnapper',
+ 'url': 'https://yts.mx/movies/kidnapper-2013',
+ 'year': '2013'}
+{'title': ' Kidnapper',
+ 'url': 'https://yts.mx/movies/kidnapper-2013',
+ 'year': '2013'}
+2025-08-06 21:04:28 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Festival',
+ 'url': 'https://yts.mx/movies/festival-1967',
+ 'year': '1967'}
+{'title': 'Festival',
+ 'url': 'https://yts.mx/movies/festival-1967',
+ 'year': '1967'}
+2025-08-06 21:04:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Fight Church',
+ 'url': 'https://yts.mx/movies/fight-church-2014',
+ 'year': '2014'}
+{'title': 'Fight Church',
+ 'url': 'https://yts.mx/movies/fight-church-2014',
+ 'year': '2014'}
+2025-08-06 21:04:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Accident',
+ 'url': 'https://yts.mx/movies/accident-2009',
+ 'year': '2009'}
+{'title': ' Accident',
+ 'url': 'https://yts.mx/movies/accident-2009',
+ 'year': '2009'}
+2025-08-06 21:04:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' I Want to Be a Soldier',
+ 'url': 'https://yts.mx/movies/i-want-to-be-a-soldier-2010',
+ 'year': '2010'}
+{'title': ' I Want to Be a Soldier',
+ 'url': 'https://yts.mx/movies/i-want-to-be-a-soldier-2010',
+ 'year': '2010'}
+2025-08-06 21:05:14 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Whitney Cummings: I'm Your Girlfriend",
+ 'url': 'https://yts.mx/movies/whitney-cummings-im-your-girlfriend-2016',
+ 'year': '2016'}
+{'title': "Whitney Cummings: I'm Your Girlfriend",
+ 'url': 'https://yts.mx/movies/whitney-cummings-im-your-girlfriend-2016',
+ 'year': '2016'}
+2025-08-06 21:05:57 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Warriors of Virtue',
+ 'url': 'https://yts.mx/movies/warriors-of-virtue-1997',
+ 'year': '1997'}
+{'title': 'Warriors of Virtue',
+ 'url': 'https://yts.mx/movies/warriors-of-virtue-1997',
+ 'year': '1997'}
+2025-08-06 21:06:00 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'John Paul Jones',
+ 'url': 'https://yts.mx/movies/john-paul-jones-1959',
+ 'year': '1959'}
+{'title': 'John Paul Jones',
+ 'url': 'https://yts.mx/movies/john-paul-jones-1959',
+ 'year': '1959'}
+2025-08-06 21:06:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Phantom Warrior',
+ 'url': 'https://yts.mx/movies/the-phantom-warrior-2024',
+ 'year': '2024'}
+{'title': 'The Phantom Warrior',
+ 'url': 'https://yts.mx/movies/the-phantom-warrior-2024',
+ 'year': '2024'}
+2025-08-06 21:06:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Rink',
+ 'url': 'https://yts.mx/movies/the-rink-1916',
+ 'year': '1916'}
+{'title': 'The Rink',
+ 'url': 'https://yts.mx/movies/the-rink-1916',
+ 'year': '1916'}
+2025-08-06 21:06:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Mechanic',
+ 'url': 'https://yts.mx/movies/the-mechanic-2011',
+ 'year': '2011'}
+{'title': 'The Mechanic',
+ 'url': 'https://yts.mx/movies/the-mechanic-2011',
+ 'year': '2011'}
+2025-08-06 21:06:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Mirror',
+ 'url': 'https://yts.mx/movies/the-mirror-2020',
+ 'year': '2020'}
+{'title': ' The Mirror',
+ 'url': 'https://yts.mx/movies/the-mirror-2020',
+ 'year': '2020'}
+2025-08-06 21:06:47 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Netherworld',
+ 'url': 'https://yts.mx/movies/netherworld-1992',
+ 'year': '1992'}
+{'title': 'Netherworld',
+ 'url': 'https://yts.mx/movies/netherworld-1992',
+ 'year': '1992'}
+2025-08-06 21:06:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Mountaintop Motel Massacre',
+ 'url': 'https://yts.mx/movies/mountaintop-motel-massacre-1983',
+ 'year': '1983'}
+{'title': 'Mountaintop Motel Massacre',
+ 'url': 'https://yts.mx/movies/mountaintop-motel-massacre-1983',
+ 'year': '1983'}
+2025-08-06 21:06:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Munch', 'url': 'https://yts.mx/movies/munch-2023', 'year': '2023'}
+{'title': ' Munch', 'url': 'https://yts.mx/movies/munch-2023', 'year': '2023'}
+2025-08-06 21:06:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Jönssonligan dyker upp igen',
+ 'url': 'https://yts.mx/movies/jonssonligan-dyker-upp-igen-1986',
+ 'year': '1986'}
+{'title': ' Jönssonligan dyker upp igen',
+ 'url': 'https://yts.mx/movies/jonssonligan-dyker-upp-igen-1986',
+ 'year': '1986'}
+2025-08-06 21:07:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Last Repair Shop',
+ 'url': 'https://yts.mx/movies/the-last-repair-shop-2023',
+ 'year': '2023'}
+{'title': 'The Last Repair Shop',
+ 'url': 'https://yts.mx/movies/the-last-repair-shop-2023',
+ 'year': '2023'}
+2025-08-06 21:07:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Battle for Finland',
+ 'url': 'https://yts.mx/movies/battle-for-finland-2007',
+ 'year': '2007'}
+{'title': ' Battle for Finland',
+ 'url': 'https://yts.mx/movies/battle-for-finland-2007',
+ 'year': '2007'}
+2025-08-06 21:07:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Pulikkuthi Pandi',
+ 'url': 'https://yts.mx/movies/pulikkuthi-pandi-2021',
+ 'year': '2021'}
+{'title': ' Pulikkuthi Pandi',
+ 'url': 'https://yts.mx/movies/pulikkuthi-pandi-2021',
+ 'year': '2021'}
+2025-08-06 21:07:29 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'I Am Trying to Break Your Heart',
+ 'url': 'https://yts.mx/movies/i-am-trying-to-break-your-heart-2002',
+ 'year': '2002'}
+{'title': 'I Am Trying to Break Your Heart',
+ 'url': 'https://yts.mx/movies/i-am-trying-to-break-your-heart-2002',
+ 'year': '2002'}
+2025-08-06 21:07:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Quispe Girls',
+ 'url': 'https://yts.mx/movies/the-quispe-girls-2013',
+ 'year': '2013'}
+{'title': ' The Quispe Girls',
+ 'url': 'https://yts.mx/movies/the-quispe-girls-2013',
+ 'year': '2013'}
+2025-08-06 21:07:45 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Purge', 'url': 'https://yts.mx/movies/purge-2012', 'year': '2012'}
+{'title': ' Purge', 'url': 'https://yts.mx/movies/purge-2012', 'year': '2012'}
+2025-08-06 21:07:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Last Page',
+ 'url': 'https://yts.mx/movies/the-last-page-2023',
+ 'year': '2023'}
+{'title': 'The Last Page',
+ 'url': 'https://yts.mx/movies/the-last-page-2023',
+ 'year': '2023'}
+2025-08-06 21:08:05 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Assignment K',
+ 'url': 'https://yts.mx/movies/assignment-k-1968',
+ 'year': '1968'}
+{'title': 'Assignment K',
+ 'url': 'https://yts.mx/movies/assignment-k-1968',
+ 'year': '1968'}
+2025-08-06 21:08:34 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Boomerang!',
+ 'url': 'https://yts.mx/movies/boomerang-1947',
+ 'year': '1947'}
+{'title': 'Boomerang!',
+ 'url': 'https://yts.mx/movies/boomerang-1947',
+ 'year': '1947'}
+2025-08-06 21:08:43 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Morrhår & ärtor',
+ 'url': 'https://yts.mx/movies/morrhar-artor-1986',
+ 'year': '1986'}
+{'title': ' Morrhår & ärtor',
+ 'url': 'https://yts.mx/movies/morrhar-artor-1986',
+ 'year': '1986'}
+2025-08-06 21:08:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Cat',
+ 'url': 'https://yts.mx/movies/the-cat-1977',
+ 'year': '1977'}
+{'title': ' The Cat',
+ 'url': 'https://yts.mx/movies/the-cat-1977',
+ 'year': '1977'}
+2025-08-06 21:09:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Deadly Crush',
+ 'url': 'https://yts.mx/movies/deadly-crush-2018',
+ 'year': '2018'}
+{'title': 'Deadly Crush',
+ 'url': 'https://yts.mx/movies/deadly-crush-2018',
+ 'year': '2018'}
+2025-08-06 21:09:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'White Woman',
+ 'url': 'https://yts.mx/movies/white-woman-1933',
+ 'year': '1933'}
+{'title': 'White Woman',
+ 'url': 'https://yts.mx/movies/white-woman-1933',
+ 'year': '1933'}
+2025-08-06 21:09:21 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Inside Game',
+ 'url': 'https://yts.mx/movies/inside-game-2019',
+ 'year': '2019'}
+{'title': 'Inside Game',
+ 'url': 'https://yts.mx/movies/inside-game-2019',
+ 'year': '2019'}
+2025-08-06 21:09:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Black White and the Greys',
+ 'url': 'https://yts.mx/movies/black-white-and-the-greys-2023',
+ 'year': '2023'}
+{'title': 'Black White and the Greys',
+ 'url': 'https://yts.mx/movies/black-white-and-the-greys-2023',
+ 'year': '2023'}
+2025-08-06 21:09:46 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Crossing the Line',
+ 'url': 'https://yts.mx/movies/crossing-the-line-1990',
+ 'year': '1990'}
+{'title': 'Crossing the Line',
+ 'url': 'https://yts.mx/movies/crossing-the-line-1990',
+ 'year': '1990'}
+2025-08-06 21:09:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' King Kong Escapes',
+ 'url': 'https://yts.mx/movies/king-kong-escapes-1967',
+ 'year': '1967'}
+{'title': ' King Kong Escapes',
+ 'url': 'https://yts.mx/movies/king-kong-escapes-1967',
+ 'year': '1967'}
+2025-08-06 21:10:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Main Te Bapu',
+ 'url': 'https://yts.mx/movies/main-te-bapu-2022',
+ 'year': '2022'}
+{'title': ' Main Te Bapu',
+ 'url': 'https://yts.mx/movies/main-te-bapu-2022',
+ 'year': '2022'}
+2025-08-06 21:10:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Apocalypse Clown',
+ 'url': 'https://yts.mx/movies/apocalypse-clown-2023',
+ 'year': '2023'}
+{'title': 'Apocalypse Clown',
+ 'url': 'https://yts.mx/movies/apocalypse-clown-2023',
+ 'year': '2023'}
+2025-08-06 21:10:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Jatt & Juliet 2',
+ 'url': 'https://yts.mx/movies/jatt-juliet-2-2013',
+ 'year': '2013'}
+{'title': ' Jatt & Juliet 2',
+ 'url': 'https://yts.mx/movies/jatt-juliet-2-2013',
+ 'year': '2013'}
+2025-08-06 21:10:21 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': '3 Days in Malay',
+ 'url': 'https://yts.mx/movies/3-days-in-malay-2023',
+ 'year': '2023'}
+{'title': '3 Days in Malay',
+ 'url': 'https://yts.mx/movies/3-days-in-malay-2023',
+ 'year': '2023'}
+2025-08-06 21:10:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Winged Creatures',
+ 'url': 'https://yts.mx/movies/winged-creatures-2008',
+ 'year': '2008'}
+{'title': 'Winged Creatures',
+ 'url': 'https://yts.mx/movies/winged-creatures-2008',
+ 'year': '2008'}
+2025-08-06 21:10:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Fastest Gun Alive',
+ 'url': 'https://yts.mx/movies/the-fastest-gun-alive-1956',
+ 'year': '1956'}
+{'title': 'The Fastest Gun Alive',
+ 'url': 'https://yts.mx/movies/the-fastest-gun-alive-1956',
+ 'year': '1956'}
+2025-08-06 21:11:02 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Mending the Line',
+ 'url': 'https://yts.mx/movies/mending-the-line-2022',
+ 'year': '2022'}
+{'title': 'Mending the Line',
+ 'url': 'https://yts.mx/movies/mending-the-line-2022',
+ 'year': '2022'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Life Itself',
+ 'url': 'https://yts.mx/movies/life-itself-2014',
+ 'year': '2014'}
+{'title': 'Life Itself',
+ 'url': 'https://yts.mx/movies/life-itself-2014',
+ 'year': '2014'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' My Neighbors the Yamadas',
+ 'url': 'https://yts.mx/movies/my-neighbors-the-yamadas-1999',
+ 'year': '1999'}
+{'title': ' My Neighbors the Yamadas',
+ 'url': 'https://yts.mx/movies/my-neighbors-the-yamadas-1999',
+ 'year': '1999'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Chalte Chalte',
+ 'url': 'https://yts.mx/movies/chalte-chalte-2003',
+ 'year': '2003'}
+{'title': ' Chalte Chalte',
+ 'url': 'https://yts.mx/movies/chalte-chalte-2003',
+ 'year': '2003'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Shrine',
+ 'url': 'https://yts.mx/movies/the-shrine-2010',
+ 'year': '2010'}
+{'title': 'The Shrine',
+ 'url': 'https://yts.mx/movies/the-shrine-2010',
+ 'year': '2010'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Protection Detail',
+ 'url': 'https://yts.mx/movies/protection-detail-2022',
+ 'year': '2022'}
+{'title': 'Protection Detail',
+ 'url': 'https://yts.mx/movies/protection-detail-2022',
+ 'year': '2022'}
+2025-08-06 21:11:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Stranger by the Lake',
+ 'url': 'https://yts.mx/movies/stranger-by-the-lake-2013',
+ 'year': '2013'}
+{'title': ' Stranger by the Lake',
+ 'url': 'https://yts.mx/movies/stranger-by-the-lake-2013',
+ 'year': '2013'}
+2025-08-06 21:11:13 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Last Adventure',
+ 'url': 'https://yts.mx/movies/the-last-adventure-1967',
+ 'year': '1967'}
+{'title': ' The Last Adventure',
+ 'url': 'https://yts.mx/movies/the-last-adventure-1967',
+ 'year': '1967'}
+2025-08-06 21:11:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Jack and the Cuckoo-Clock Heart',
+ 'url': 'https://yts.mx/movies/jack-and-the-cuckoo-clock-heart-2013',
+ 'year': '2013'}
+{'title': ' Jack and the Cuckoo-Clock Heart',
+ 'url': 'https://yts.mx/movies/jack-and-the-cuckoo-clock-heart-2013',
+ 'year': '2013'}
+2025-08-06 21:11:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Bank',
+ 'url': 'https://yts.mx/movies/the-bank-2001',
+ 'year': '2001'}
+{'title': 'The Bank',
+ 'url': 'https://yts.mx/movies/the-bank-2001',
+ 'year': '2001'}
+2025-08-06 21:11:26 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Aziz Ansari: Right Now',
+ 'url': 'https://yts.mx/movies/aziz-ansari-right-now-2019',
+ 'year': '2019'}
+{'title': 'Aziz Ansari: Right Now',
+ 'url': 'https://yts.mx/movies/aziz-ansari-right-now-2019',
+ 'year': '2019'}
+2025-08-06 21:11:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Cold Prey 2',
+ 'url': 'https://yts.mx/movies/cold-prey-2-2008',
+ 'year': '2008'}
+{'title': ' Cold Prey 2',
+ 'url': 'https://yts.mx/movies/cold-prey-2-2008',
+ 'year': '2008'}
+2025-08-06 21:11:40 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Çakallarla Dans 3: Sifir Sikinti',
+ 'url': 'https://yts.mx/movies/cakallarla-dans-3-sifir-sikinti-2014',
+ 'year': '2014'}
+{'title': ' Çakallarla Dans 3: Sifir Sikinti',
+ 'url': 'https://yts.mx/movies/cakallarla-dans-3-sifir-sikinti-2014',
+ 'year': '2014'}
+2025-08-06 21:11:45 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Love 2. America',
+ 'url': 'https://yts.mx/movies/love-2-america-2018',
+ 'year': '2018'}
+{'title': ' Love 2. America',
+ 'url': 'https://yts.mx/movies/love-2-america-2018',
+ 'year': '2018'}
+2025-08-06 21:11:45 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sammy Slick: Vampire Slayer',
+ 'url': 'https://yts.mx/movies/sammy-slick-vampire-slayer-2023',
+ 'year': '2023'}
+{'title': 'Sammy Slick: Vampire Slayer',
+ 'url': 'https://yts.mx/movies/sammy-slick-vampire-slayer-2023',
+ 'year': '2023'}
+2025-08-06 21:12:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Antigang: La Relève',
+ 'url': 'https://yts.mx/movies/antigang-la-releve-2023',
+ 'year': '2023'}
+{'title': ' Antigang: La Relève',
+ 'url': 'https://yts.mx/movies/antigang-la-releve-2023',
+ 'year': '2023'}
+2025-08-06 21:12:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Stink!', 'url': 'https://yts.mx/movies/stink-2015', 'year': '2015'}
+{'title': 'Stink!', 'url': 'https://yts.mx/movies/stink-2015', 'year': '2015'}
+2025-08-06 21:12:16 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Barbecue',
+ 'url': 'https://yts.mx/movies/barbecue-2017',
+ 'year': '2017'}
+{'title': 'Barbecue',
+ 'url': 'https://yts.mx/movies/barbecue-2017',
+ 'year': '2017'}
+2025-08-06 21:12:18 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Louis van Beethoven',
+ 'url': 'https://yts.mx/movies/louis-van-beethoven-2020',
+ 'year': '2020'}
+{'title': ' Louis van Beethoven',
+ 'url': 'https://yts.mx/movies/louis-van-beethoven-2020',
+ 'year': '2020'}
+2025-08-06 21:12:24 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Uppercase Print',
+ 'url': 'https://yts.mx/movies/uppercase-print-2020',
+ 'year': '2020'}
+{'title': ' Uppercase Print',
+ 'url': 'https://yts.mx/movies/uppercase-print-2020',
+ 'year': '2020'}
+2025-08-06 21:12:29 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'David Gilmour: Live at Pompeii',
+ 'url': 'https://yts.mx/movies/david-gilmour-live-at-pompeii-2017',
+ 'year': '2017'}
+{'title': 'David Gilmour: Live at Pompeii',
+ 'url': 'https://yts.mx/movies/david-gilmour-live-at-pompeii-2017',
+ 'year': '2017'}
+2025-08-06 21:12:36 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Otto the Barbarian',
+ 'url': 'https://yts.mx/movies/otto-the-barbarian-2020',
+ 'year': '2020'}
+{'title': ' Otto the Barbarian',
+ 'url': 'https://yts.mx/movies/otto-the-barbarian-2020',
+ 'year': '2020'}
+2025-08-06 21:12:40 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Metamorphosis',
+ 'url': 'https://yts.mx/movies/metamorphosis-2022',
+ 'year': '2022'}
+{'title': ' Metamorphosis',
+ 'url': 'https://yts.mx/movies/metamorphosis-2022',
+ 'year': '2022'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Illegitimate',
+ 'url': 'https://yts.mx/movies/illegitimate-2016',
+ 'year': '2016'}
+{'title': ' Illegitimate',
+ 'url': 'https://yts.mx/movies/illegitimate-2016',
+ 'year': '2016'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Last Resort',
+ 'url': 'https://yts.mx/movies/the-last-resort-2009',
+ 'year': '2009'}
+{'title': 'The Last Resort',
+ 'url': 'https://yts.mx/movies/the-last-resort-2009',
+ 'year': '2009'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Hemel', 'url': 'https://yts.mx/movies/hemel-2012', 'year': '2012'}
+{'title': ' Hemel', 'url': 'https://yts.mx/movies/hemel-2012', 'year': '2012'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Mama/M.A.M.A.',
+ 'url': 'https://yts.mx/movies/mamam-a-m-a-2003',
+ 'year': '2003'}
+{'title': 'Mama/M.A.M.A.',
+ 'url': 'https://yts.mx/movies/mamam-a-m-a-2003',
+ 'year': '2003'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Montana',
+ 'url': 'https://yts.mx/movies/montana-2014',
+ 'year': '2014'}
+{'title': 'Montana',
+ 'url': 'https://yts.mx/movies/montana-2014',
+ 'year': '2014'}
+2025-08-06 21:12:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Forty-First',
+ 'url': 'https://yts.mx/movies/the-forty-first-1956',
+ 'year': '1956'}
+{'title': ' The Forty-First',
+ 'url': 'https://yts.mx/movies/the-forty-first-1956',
+ 'year': '1956'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' I Do Not Care If We Go Down in History as Barbarians',
+ 'url': 'https://yts.mx/movies/i-do-not-care-if-we-go-down-in-history-as-barbarians-2018',
+ 'year': '2018'}
+{'title': ' I Do Not Care If We Go Down in History as Barbarians',
+ 'url': 'https://yts.mx/movies/i-do-not-care-if-we-go-down-in-history-as-barbarians-2018',
+ 'year': '2018'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Selfie 69',
+ 'url': 'https://yts.mx/movies/selfie-69-2016',
+ 'year': '2016'}
+{'title': ' Selfie 69',
+ 'url': 'https://yts.mx/movies/selfie-69-2016',
+ 'year': '2016'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Eraser', 'url': 'https://yts.mx/movies/eraser-2023', 'year': '2023'}
+{'title': ' Eraser', 'url': 'https://yts.mx/movies/eraser-2023', 'year': '2023'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Zatoichi the Fugitive',
+ 'url': 'https://yts.mx/movies/zatoichi-the-fugitive-1963',
+ 'year': '1963'}
+{'title': ' Zatoichi the Fugitive',
+ 'url': 'https://yts.mx/movies/zatoichi-the-fugitive-1963',
+ 'year': '1963'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Bert Kreischer: The Machine',
+ 'url': 'https://yts.mx/movies/bert-kreischer-the-machine-2016',
+ 'year': '2016'}
+{'title': 'Bert Kreischer: The Machine',
+ 'url': 'https://yts.mx/movies/bert-kreischer-the-machine-2016',
+ 'year': '2016'}
+2025-08-06 21:12:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Miscellaneous Brigade on the Watch',
+ 'url': 'https://yts.mx/movies/the-miscellaneous-brigade-on-the-watch-1971',
+ 'year': '1971'}
+{'title': ' The Miscellaneous Brigade on the Watch',
+ 'url': 'https://yts.mx/movies/the-miscellaneous-brigade-on-the-watch-1971',
+ 'year': '1971'}
+2025-08-06 21:12:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Dacians',
+ 'url': 'https://yts.mx/movies/the-dacians-1966',
+ 'year': '1966'}
+{'title': ' The Dacians',
+ 'url': 'https://yts.mx/movies/the-dacians-1966',
+ 'year': '1966'}
+2025-08-06 21:12:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'What Remains',
+ 'url': 'https://yts.mx/movies/what-remains-2022',
+ 'year': '2022'}
+{'title': 'What Remains',
+ 'url': 'https://yts.mx/movies/what-remains-2022',
+ 'year': '2022'}
+2025-08-06 21:13:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Dead Fish',
+ 'url': 'https://yts.mx/movies/dead-fish-2005',
+ 'year': '2005'}
+{'title': 'Dead Fish',
+ 'url': 'https://yts.mx/movies/dead-fish-2005',
+ 'year': '2005'}
+2025-08-06 21:13:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Maidentrip',
+ 'url': 'https://yts.mx/movies/maidentrip-2013',
+ 'year': '2013'}
+{'title': 'Maidentrip',
+ 'url': 'https://yts.mx/movies/maidentrip-2013',
+ 'year': '2013'}
+2025-08-06 21:13:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Cutting Edge: The Magic of Movie Editing',
+ 'url': 'https://yts.mx/movies/the-cutting-edge-the-magic-of-movie-editing-2004',
+ 'year': '2004'}
+{'title': 'The Cutting Edge: The Magic of Movie Editing',
+ 'url': 'https://yts.mx/movies/the-cutting-edge-the-magic-of-movie-editing-2004',
+ 'year': '2004'}
+2025-08-06 21:13:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Tony Robbins: I Am Not Your Guru',
+ 'url': 'https://yts.mx/movies/tony-robbins-i-am-not-your-guru-2016',
+ 'year': '2016'}
+{'title': 'Tony Robbins: I Am Not Your Guru',
+ 'url': 'https://yts.mx/movies/tony-robbins-i-am-not-your-guru-2016',
+ 'year': '2016'}
+2025-08-06 21:13:13 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Grilling',
+ 'url': 'https://yts.mx/movies/the-grilling-1981',
+ 'year': '1981'}
+{'title': ' The Grilling',
+ 'url': 'https://yts.mx/movies/the-grilling-1981',
+ 'year': '1981'}
+2025-08-06 21:13:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Gertrud',
+ 'url': 'https://yts.mx/movies/gertrud-1964',
+ 'year': '1964'}
+{'title': ' Gertrud',
+ 'url': 'https://yts.mx/movies/gertrud-1964',
+ 'year': '1964'}
+2025-08-06 21:13:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Terror at Tenkiller',
+ 'url': 'https://yts.mx/movies/terror-at-tenkiller-1986',
+ 'year': '1986'}
+{'title': 'Terror at Tenkiller',
+ 'url': 'https://yts.mx/movies/terror-at-tenkiller-1986',
+ 'year': '1986'}
+2025-08-06 21:13:19 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Tell Momma Not to Worry',
+ 'url': 'https://yts.mx/movies/tell-momma-not-to-worry-2023',
+ 'year': '2023'}
+{'title': 'Tell Momma Not to Worry',
+ 'url': 'https://yts.mx/movies/tell-momma-not-to-worry-2023',
+ 'year': '2023'}
+2025-08-06 21:13:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Reunion of Champions',
+ 'url': 'https://yts.mx/movies/reunion-of-champions-2021',
+ 'year': '2021'}
+{'title': 'Reunion of Champions',
+ 'url': 'https://yts.mx/movies/reunion-of-champions-2021',
+ 'year': '2021'}
+2025-08-06 21:13:28 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Seven Days of Himawari and Her Puppies',
+ 'url': 'https://yts.mx/movies/seven-days-of-himawari-and-her-puppies-2012',
+ 'year': '2012'}
+{'title': ' Seven Days of Himawari and Her Puppies',
+ 'url': 'https://yts.mx/movies/seven-days-of-himawari-and-her-puppies-2012',
+ 'year': '2012'}
+2025-08-06 21:13:30 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'JL Ranch',
+ 'url': 'https://yts.mx/movies/jl-ranch-2016',
+ 'year': '2016'}
+{'title': 'JL Ranch',
+ 'url': 'https://yts.mx/movies/jl-ranch-2016',
+ 'year': '2016'}
+2025-08-06 21:13:36 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Into the Abyss',
+ 'url': 'https://yts.mx/movies/into-the-abyss-2011',
+ 'year': '2011'}
+{'title': 'Into the Abyss',
+ 'url': 'https://yts.mx/movies/into-the-abyss-2011',
+ 'year': '2011'}
+2025-08-06 21:13:39 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Il Divo',
+ 'url': 'https://yts.mx/movies/il-divo-2008',
+ 'year': '2008'}
+{'title': ' Il Divo',
+ 'url': 'https://yts.mx/movies/il-divo-2008',
+ 'year': '2008'}
+2025-08-06 21:13:50 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Home', 'url': 'https://yts.mx/movies/home-2009', 'year': '2009'}
+{'title': ' Home', 'url': 'https://yts.mx/movies/home-2009', 'year': '2009'}
+2025-08-06 21:13:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Lovers of the Arctic Circle',
+ 'url': 'https://yts.mx/movies/lovers-of-the-arctic-circle-1998',
+ 'year': '1998'}
+{'title': ' Lovers of the Arctic Circle',
+ 'url': 'https://yts.mx/movies/lovers-of-the-arctic-circle-1998',
+ 'year': '1998'}
+2025-08-06 21:13:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Joyland',
+ 'url': 'https://yts.mx/movies/joyland-2022',
+ 'year': '2022'}
+{'title': ' Joyland',
+ 'url': 'https://yts.mx/movies/joyland-2022',
+ 'year': '2022'}
+2025-08-06 21:13:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Flock',
+ 'url': 'https://yts.mx/movies/the-flock-2007',
+ 'year': '2007'}
+{'title': 'The Flock',
+ 'url': 'https://yts.mx/movies/the-flock-2007',
+ 'year': '2007'}
+2025-08-06 21:13:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' MUTANTES S.21 - 25 anos depois',
+ 'url': 'https://yts.mx/movies/mutantes-s-21-25-anos-depois-2018',
+ 'year': '2018'}
+{'title': ' MUTANTES S.21 - 25 anos depois',
+ 'url': 'https://yts.mx/movies/mutantes-s-21-25-anos-depois-2018',
+ 'year': '2018'}
+2025-08-06 21:13:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Seasons',
+ 'url': 'https://yts.mx/movies/seasons-2023',
+ 'year': '2023'}
+{'title': ' Seasons',
+ 'url': 'https://yts.mx/movies/seasons-2023',
+ 'year': '2023'}
+2025-08-06 21:13:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Daughter',
+ 'url': 'https://yts.mx/movies/daughter-2022',
+ 'year': '2022'}
+{'title': 'Daughter',
+ 'url': 'https://yts.mx/movies/daughter-2022',
+ 'year': '2022'}
+2025-08-06 21:13:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Asylum, the Lost Footage',
+ 'url': 'https://yts.mx/movies/asylum-the-lost-footage-2013',
+ 'year': '2013'}
+{'title': 'Asylum, the Lost Footage',
+ 'url': 'https://yts.mx/movies/asylum-the-lost-footage-2013',
+ 'year': '2013'}
+2025-08-06 21:13:57 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Forced Out',
+ 'url': 'https://yts.mx/movies/forced-out-2023',
+ 'year': '2023'}
+{'title': 'Forced Out',
+ 'url': 'https://yts.mx/movies/forced-out-2023',
+ 'year': '2023'}
+2025-08-06 21:14:14 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Nigel Ng: The HAIYAA Special',
+ 'url': 'https://yts.mx/movies/nigel-ng-the-haiyaa-special-2023',
+ 'year': '2023'}
+{'title': 'Nigel Ng: The HAIYAA Special',
+ 'url': 'https://yts.mx/movies/nigel-ng-the-haiyaa-special-2023',
+ 'year': '2023'}
+2025-08-06 21:14:18 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'A Fuller Life',
+ 'url': 'https://yts.mx/movies/a-fuller-life-2013',
+ 'year': '2013'}
+{'title': 'A Fuller Life',
+ 'url': 'https://yts.mx/movies/a-fuller-life-2013',
+ 'year': '2013'}
+2025-08-06 21:14:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Incidental Characters',
+ 'url': 'https://yts.mx/movies/incidental-characters-2020',
+ 'year': '2020'}
+{'title': 'Incidental Characters',
+ 'url': 'https://yts.mx/movies/incidental-characters-2020',
+ 'year': '2020'}
+2025-08-06 21:14:39 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Shimon's Returns",
+ 'url': 'https://yts.mx/movies/shimons-returns-2014',
+ 'year': '2014'}
+{'title': "Shimon's Returns",
+ 'url': 'https://yts.mx/movies/shimons-returns-2014',
+ 'year': '2014'}
+2025-08-06 21:14:42 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Baby Assassins',
+ 'url': 'https://yts.mx/movies/baby-assassins-2021',
+ 'year': '2021'}
+{'title': ' Baby Assassins',
+ 'url': 'https://yts.mx/movies/baby-assassins-2021',
+ 'year': '2021'}
+2025-08-06 21:14:55 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Divide',
+ 'url': 'https://yts.mx/movies/the-divide-2015',
+ 'year': '2015'}
+{'title': 'The Divide',
+ 'url': 'https://yts.mx/movies/the-divide-2015',
+ 'year': '2015'}
+2025-08-06 21:15:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Hinokio',
+ 'url': 'https://yts.mx/movies/hinokio-2005',
+ 'year': '2005'}
+{'title': ' Hinokio',
+ 'url': 'https://yts.mx/movies/hinokio-2005',
+ 'year': '2005'}
+2025-08-06 21:15:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Foxter & Max',
+ 'url': 'https://yts.mx/movies/foxter-max-2019',
+ 'year': '2019'}
+{'title': ' Foxter & Max',
+ 'url': 'https://yts.mx/movies/foxter-max-2019',
+ 'year': '2019'}
+2025-08-06 21:15:24 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Serenity',
+ 'url': 'https://yts.mx/movies/serenity-2005',
+ 'year': '2005'}
+{'title': 'Serenity',
+ 'url': 'https://yts.mx/movies/serenity-2005',
+ 'year': '2005'}
+2025-08-06 21:15:29 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Classic',
+ 'url': 'https://yts.mx/movies/the-classic-2003',
+ 'year': '2003'}
+{'title': ' The Classic',
+ 'url': 'https://yts.mx/movies/the-classic-2003',
+ 'year': '2003'}
+2025-08-06 21:15:31 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Firegate',
+ 'url': 'https://yts.mx/movies/firegate-2016',
+ 'year': '2016'}
+{'title': ' Firegate',
+ 'url': 'https://yts.mx/movies/firegate-2016',
+ 'year': '2016'}
+2025-08-06 21:38:33 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Waldo on Weed',
+ 'url': 'https://yts.mx/movies/waldo-on-weed-2019',
+ 'year': '2019'}
+{'title': 'Waldo on Weed',
+ 'url': 'https://yts.mx/movies/waldo-on-weed-2019',
+ 'year': '2019'}
+2025-08-06 21:38:41 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Psycho Sweet 16',
+ 'url': 'https://yts.mx/movies/psycho-sweet-16-2022',
+ 'year': '2022'}
+{'title': 'Psycho Sweet 16',
+ 'url': 'https://yts.mx/movies/psycho-sweet-16-2022',
+ 'year': '2022'}
+2025-08-06 21:38:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Quantrill's Raiders",
+ 'url': 'https://yts.mx/movies/quantrills-raiders-1958',
+ 'year': '1958'}
+{'title': "Quantrill's Raiders",
+ 'url': 'https://yts.mx/movies/quantrills-raiders-1958',
+ 'year': '1958'}
+2025-08-06 21:38:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sound of Silence',
+ 'url': 'https://yts.mx/movies/sound-of-silence-2023',
+ 'year': '2023'}
+{'title': 'Sound of Silence',
+ 'url': 'https://yts.mx/movies/sound-of-silence-2023',
+ 'year': '2023'}
+2025-08-06 21:38:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'My Music Story: Perfume',
+ 'url': 'https://yts.mx/movies/my-music-story-perfume-2020',
+ 'year': '2020'}
+{'title': 'My Music Story: Perfume',
+ 'url': 'https://yts.mx/movies/my-music-story-perfume-2020',
+ 'year': '2020'}
+2025-08-06 21:39:09 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Photograph',
+ 'url': 'https://yts.mx/movies/the-photograph-2007',
+ 'year': '2007'}
+{'title': ' The Photograph',
+ 'url': 'https://yts.mx/movies/the-photograph-2007',
+ 'year': '2007'}
+2025-08-06 21:39:28 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Doomsday Stories',
+ 'url': 'https://yts.mx/movies/doomsday-stories-2023',
+ 'year': '2023'}
+{'title': 'Doomsday Stories',
+ 'url': 'https://yts.mx/movies/doomsday-stories-2023',
+ 'year': '2023'}
+2025-08-06 21:39:35 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Vicky', 'url': 'https://yts.mx/movies/vicky-2022', 'year': '2022'}
+{'title': 'Vicky', 'url': 'https://yts.mx/movies/vicky-2022', 'year': '2022'}
+2025-08-06 21:39:40 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Sweet Justice',
+ 'url': 'https://yts.mx/movies/sweet-justice-2009',
+ 'year': '2009'}
+{'title': 'Sweet Justice',
+ 'url': 'https://yts.mx/movies/sweet-justice-2009',
+ 'year': '2009'}
+2025-08-06 21:39:46 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Listen to Your Heart',
+ 'url': 'https://yts.mx/movies/listen-to-your-heart-2010',
+ 'year': '2010'}
+{'title': 'Listen to Your Heart',
+ 'url': 'https://yts.mx/movies/listen-to-your-heart-2010',
+ 'year': '2010'}
+2025-08-06 21:39:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Body', 'url': 'https://yts.mx/movies/body-2011', 'year': '2011'}
+{'title': ' Body', 'url': 'https://yts.mx/movies/body-2011', 'year': '2011'}
+2025-08-06 21:39:50 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The First Movie',
+ 'url': 'https://yts.mx/movies/the-first-movie-2009',
+ 'year': '2009'}
+{'title': 'The First Movie',
+ 'url': 'https://yts.mx/movies/the-first-movie-2009',
+ 'year': '2009'}
+2025-08-06 21:39:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Butterfly Hunt',
+ 'url': 'https://yts.mx/movies/the-butterfly-hunt-1992',
+ 'year': '1992'}
+{'title': ' The Butterfly Hunt',
+ 'url': 'https://yts.mx/movies/the-butterfly-hunt-1992',
+ 'year': '1992'}
+2025-08-06 21:39:57 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Son',
+ 'url': 'https://yts.mx/movies/the-son-2022',
+ 'year': '2022'}
+{'title': 'The Son',
+ 'url': 'https://yts.mx/movies/the-son-2022',
+ 'year': '2022'}
+2025-08-06 21:40:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Crusades',
+ 'url': 'https://yts.mx/movies/the-crusades-1935',
+ 'year': '1935'}
+{'title': 'The Crusades',
+ 'url': 'https://yts.mx/movies/the-crusades-1935',
+ 'year': '1935'}
+2025-08-06 21:40:07 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Missing',
+ 'url': 'https://yts.mx/movies/missing-2023',
+ 'year': '2023'}
+{'title': 'Missing',
+ 'url': 'https://yts.mx/movies/missing-2023',
+ 'year': '2023'}
+2025-08-06 21:44:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Tatil Kitabi',
+ 'url': 'https://yts.mx/movies/tatil-kitabi-2008',
+ 'year': '2008'}
+{'title': ' Tatil Kitabi',
+ 'url': 'https://yts.mx/movies/tatil-kitabi-2008',
+ 'year': '2008'}
+2025-08-06 21:44:54 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Luckless in Love',
+ 'url': 'https://yts.mx/movies/luckless-in-love-2023',
+ 'year': '2023'}
+{'title': 'Luckless in Love',
+ 'url': 'https://yts.mx/movies/luckless-in-love-2023',
+ 'year': '2023'}
+2025-08-06 21:45:17 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "Smilin' Through",
+ 'url': 'https://yts.mx/movies/smilin-through-1932',
+ 'year': '1932'}
+{'title': "Smilin' Through",
+ 'url': 'https://yts.mx/movies/smilin-through-1932',
+ 'year': '1932'}
+2025-08-06 21:45:21 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Young and Alive',
+ 'url': 'https://yts.mx/movies/young-and-alive-2018',
+ 'year': '2018'}
+{'title': ' Young and Alive',
+ 'url': 'https://yts.mx/movies/young-and-alive-2018',
+ 'year': '2018'}
+2025-08-06 21:45:24 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Anjaana Anjaani',
+ 'url': 'https://yts.mx/movies/anjaana-anjaani-2010',
+ 'year': '2010'}
+{'title': ' Anjaana Anjaani',
+ 'url': 'https://yts.mx/movies/anjaana-anjaani-2010',
+ 'year': '2010'}
+2025-08-06 21:45:35 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Manor',
+ 'url': 'https://yts.mx/movies/the-manor-2013',
+ 'year': '2013'}
+{'title': 'The Manor',
+ 'url': 'https://yts.mx/movies/the-manor-2013',
+ 'year': '2013'}
+2025-08-06 21:45:40 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Wild Sparrow',
+ 'url': 'https://yts.mx/movies/wild-sparrow-2019',
+ 'year': '2019'}
+{'title': ' Wild Sparrow',
+ 'url': 'https://yts.mx/movies/wild-sparrow-2019',
+ 'year': '2019'}
+2025-08-06 21:45:45 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Ghost Book',
+ 'url': 'https://yts.mx/movies/ghost-book-2022',
+ 'year': '2022'}
+{'title': ' Ghost Book',
+ 'url': 'https://yts.mx/movies/ghost-book-2022',
+ 'year': '2022'}
+2025-08-06 21:45:49 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Autopsy 4: The Dead Speak',
+ 'url': 'https://yts.mx/movies/autopsy-4-the-dead-speak-1997',
+ 'year': '1997'}
+{'title': 'Autopsy 4: The Dead Speak',
+ 'url': 'https://yts.mx/movies/autopsy-4-the-dead-speak-1997',
+ 'year': '1997'}
+2025-08-06 21:45:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Copilot',
+ 'url': 'https://yts.mx/movies/copilot-2021',
+ 'year': '2021'}
+{'title': ' Copilot',
+ 'url': 'https://yts.mx/movies/copilot-2021',
+ 'year': '2021'}
+2025-08-06 21:46:05 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' Life Is Beautiful',
+ 'url': 'https://yts.mx/movies/life-is-beautiful-2022',
+ 'year': '2022'}
+{'title': ' Life Is Beautiful',
+ 'url': 'https://yts.mx/movies/life-is-beautiful-2022',
+ 'year': '2022'}
+2025-08-06 21:46:10 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': "I Hate Valentine's Day",
+ 'url': 'https://yts.mx/movies/i-hate-valentines-day-2009',
+ 'year': '2009'}
+{'title': "I Hate Valentine's Day",
+ 'url': 'https://yts.mx/movies/i-hate-valentines-day-2009',
+ 'year': '2009'}
+2025-08-06 21:46:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'Happy Ending',
+ 'url': 'https://yts.mx/movies/happy-ending-2022',
+ 'year': '2022'}
+{'title': 'Happy Ending',
+ 'url': 'https://yts.mx/movies/happy-ending-2022',
+ 'year': '2022'}
+2025-08-06 21:46:25 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': ' The Year I Became a Liar',
+ 'url': 'https://yts.mx/movies/the-year-i-became-a-liar-2009',
+ 'year': '2009'}
+{'title': ' The Year I Became a Liar',
+ 'url': 'https://yts.mx/movies/the-year-i-became-a-liar-2009',
+ 'year': '2009'}
+2025-08-06 21:46:45 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'title': 'The Invisible Maniac',
+ 'url': 'https://yts.mx/movies/the-invisible-maniac-1990',
+ 'year': '1990'}
+{'title': 'The Invisible Maniac',
+ 'url': 'https://yts.mx/movies/the-invisible-maniac-1990',
+ 'year': '1990'}
