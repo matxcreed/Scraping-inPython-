@@ -14,7 +14,7 @@ Su objetivo es demostrar cómo implementar un flujo de scraping completo con pag
 
     Almacenamiento en MongoDB para guardar la información extraída.
 
-    Código pensado para aprendizaje y uso por hobbistas y estudiantes.
+    Código pensado para aprendizaje y uso por hobbistas e estudiantes.
 
 📦 Requisitos
 
@@ -28,14 +28,6 @@ Su objetivo es demostrar cómo implementar un flujo de scraping completo con pag
 
         pymongo
 
-Instálalas con:
-
-pip install -r requirements.txt
-
-(Si no tienes requirements.txt, puedes instalar manualmente:)
-
-pip install scrapy pymongo
-
 🚀 Uso
 
     Clona este repositorio:
@@ -47,26 +39,10 @@ cd YTS-Scraping
 
     Ejecuta el scraper:
 
-scrapy crawl yts
+scrapy crawl movie
 
     Verifica que los datos se hayan guardado en tu base de datos MongoDB.
-
-📂 Estructura del proyecto
-
-YTS-Scraping/
-├── yts_scraper/        # Código principal del spider
-│   ├── spiders/        # Spiders de Scrapy
-│   ├── items.py        # Definición de los datos a extraer
-│   ├── pipelines.py    # Procesamiento y guardado en MongoDB
-│   └── settings.py     # Configuración del proyecto
-├── requirements.txt    # Dependencias del proyecto
-└── README.md           # Documentación
 
 📚 Inspiración
 
 Siempre quise aprender cómo extraer datos de una página web de manera estructurada. Este proyecto es el resultado de experimentar y aplicar conceptos de scraping, almacenamiento de datos y buenas prácticas con Scrapy.
-⚠️ Aviso legal
-
-Este proyecto se creó con fines educativos.
-El uso indebido de técnicas de scraping puede violar los Términos de Servicio de algunos sitios web.
-El autor no se responsabiliza por el mal uso del código.
