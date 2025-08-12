@@ -1,7 +1,7 @@
 import scrapy
 
-from books.items import BooksItem
-from books.items import MovieItem
+from yts.items import BooksItem
+from yts.items import MovieItem
 
 #class BookSpider(scrapy.Spider):
 #    name = "book"

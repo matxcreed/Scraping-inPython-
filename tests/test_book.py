@@ -3,8 +3,8 @@ from pathlib import Path
 
 
 from scrapy.http import HtmlResponse, Request
-from books.items import BooksItem
-from books.spiders.book import BookSpider
+from yts.items import BooksItem
+from yts.spiders.book import BookSpider
 
 def _get_sample_html_content():
     html_file_path = Path(__file__).parent / "sample.html"
