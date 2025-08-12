@@ -1,48 +1,60 @@
-﻿# Scraping en python
-
 YTS Scraping
 
-Este proyecto es un web scraper desarrollado en Python con Scrapy para extraer información de la página YTS y almacenarla en una base de datos MongoDB.
-Su objetivo es demostrar cómo implementar un flujo de scraping completo con paginación y uso de user-agent para simular un navegador real.
-✨ Características
+This project is a web scraper built with Python and Scrapy to extract information from YTS and store it in a MongoDB database.
+Its main goal is to demonstrate how to implement a complete scraping workflow with pagination and custom user-agent to simulate a real browser.
+✨ Features
 
-    Scraping estructurado usando Scrapy.
+    Structured scraping using Scrapy.
 
-    Paginación automática para recorrer múltiples páginas de resultados.
+    Automatic pagination to crawl multiple result pages.
 
-    User-Agent personalizado para evitar bloqueos básicos.
+    Custom User-Agent to avoid basic blocks.
 
-    Almacenamiento en MongoDB para guardar la información extraída.
+    MongoDB storage for the scraped data.
 
-    Código pensado para aprendizaje y uso por hobbistas e estudiantes.
+    Designed for learning purposes by hobbyists and students.
 
-📦 Requisitos
+📦 Requirements
 
     Python 3.9+
 
-    MongoDB instalado y en ejecución
+    MongoDB installed and running
 
-    Librerías Python:
+    Python libraries:
 
         scrapy
 
         pymongo
 
-🚀 Uso
+Install dependencies with:
 
-    Clona este repositorio:
+pip install -r requirements.txt
+
+pip install scrapy pymongo
+
+🚀 Usage
+
+    Clone this repository:
 
 git clone https://github.com/matxcreed/YTS-Scraping.git
 cd YTS-Scraping
 
-    Configura la conexión a tu base de datos MongoDB en el archivo de configuración del proyecto (por ejemplo, en settings.py).
+    Set up your MongoDB connection in the project configuration file (e.g., settings.py).
 
-    Ejecuta el scraper:
+    Run the scraper:
 
 scrapy crawl movie
 
-    Verifica que los datos se hayan guardado en tu base de datos MongoDB.
+    Check your MongoDB database to confirm the data has been saved.
 
-📚 Inspiración
 
-Siempre quise aprender cómo extraer datos de una página web de manera estructurada. Este proyecto es el resultado de experimentar y aplicar conceptos de scraping, almacenamiento de datos y buenas prácticas con Scrapy.
+📚 Inspiration
+
+I’ve always wanted to learn how to extract data from a website in a structured way.
+This project is the result of experimenting with web scraping, data storage, and best practices using Scrapy.
+⚠️ Legal Disclaimer
+
+This project was created for educational purposes only.
+Improper use of scraping techniques may violate a website’s Terms of Service.
+The author is not responsible for any misuse of this code.
+
